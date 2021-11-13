@@ -32,7 +32,7 @@ const Home = ({socials}) => {
         <title>Home - TryNextJS</title>
       </Head>
       <div className={styles.wrapper}>
-        <h1>--- TEST ---</h1>
+        <h1>--- TEST-2 ---</h1>
         <div styles={'width: 100%'}>
           <Heading text={'Next.js Application'} />
         </div>
